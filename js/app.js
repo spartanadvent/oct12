@@ -1,4 +1,4 @@
-var github_token = "fbb66b946b2dd5ea55578885173043b7e42c7eaa"
+var github_token = //github token
 
 var github_connection;
 var repo;
